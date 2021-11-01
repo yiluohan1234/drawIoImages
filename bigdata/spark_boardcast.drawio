@@ -1,65 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T06:12:41.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="o_2ZrAdg0Uc0y0IyXGVv" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T06:59:41.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zetLKPr0AbQZ0KLEU_Eb" version="15.6.3" type="github">
   <diagram id="cOMReA-J-beGVJ15fwIQ" name="第 1 页">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tvu9H43cSBroIumsVcao-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="70" y="150" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="150" width="400" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="500" y="170" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-4" value="&lt;b&gt;map&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-4" value="&lt;b&gt;map&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="130" y="210" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-5" value="&lt;b&gt;map&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-5" value="&lt;b&gt;map&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="560" y="185" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="250" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="530" y="250" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="640" y="250" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-9" value="Driver" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-9" value="Driver" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="160" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-10" value="Executor" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-10" value="Executor" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="375" y="160" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-11" value="Task" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-11" value="Task" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-12" value="Task" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-12" value="Task" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-13" value="Task" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-13" value="Task" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="265" as="sourcePoint" />
             <mxPoint x="520" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="255" as="sourcePoint" />
             <mxPoint x="620" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvu9H43cSBroIumsVcao-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tvu9H43cSBroIumsVcao-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574.5" y="270" as="sourcePoint" />
             <mxPoint x="574.5" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_Haoon6mgfmn8RdKX46G-1" value="&lt;b&gt;闭包数据，都是以Task为单位发送的，每个任务中包含闭包数据。这样可能会导致，一个Executor中含有大量重复的数据，并且占用大量的内存。&lt;br&gt;Exxcutor其实就是一个JVM，所以在启动时，会自动分配内存。&lt;br&gt;完全可以将任务中的闭包数据放置在Executor的内存中，达到共享的目的。&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="345" width="790" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
